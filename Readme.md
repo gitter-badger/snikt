@@ -1,4 +1,6 @@
 ## SNIKT! ##
+
+[![Join the chat at https://gitter.im/alertbox/snikt](https://badges.gitter.im/alertbox/snikt.svg)](https://gitter.im/alertbox/snikt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Snkit! is nothing but a light-weight micro-ORM. Originally, it is the switchblade-sound of Wolverine's claws locking into place.
 
 ## OVERVIEW ##
